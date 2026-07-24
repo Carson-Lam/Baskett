@@ -78,7 +78,6 @@ MIT License - feel free to use and modify
 ## Contact
 
 **Carson Lam**  
-Mail: [lamcn51@gmail.com](mailto:lamcn51@gmail.com)  
 LinkedIn: [Linkedin](https://www.linkedin.com/in/lam-carson/)
 
 ---
